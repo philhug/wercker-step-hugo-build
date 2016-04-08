@@ -1,3 +1,4 @@
+name: hugo-build
 box: wercker/default
 build:
   steps:
